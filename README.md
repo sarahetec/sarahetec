@@ -12,9 +12,9 @@
 
 👩‍💻 Sobre mim:
 
-• Estudante do M-Tec em Informática para Internet na ETEC
-• 1º ano do curso
-• Ampliando meus conhecimentos em tecnologia e programação
+ • Estudante do M-Tec em Informática para Internet na ETEC
+ • 1º ano do curso
+ • Ampliando meus conhecimentos em tecnologia e programação
 
  Uso este GitHub para compartilhar projetos, exercícios e aprendizados
 
