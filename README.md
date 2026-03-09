@@ -1,16 +1,20 @@
-## Hi there 👋
+Olá, mundo!!! 
+ Estudante explorando e conhecendo o mundo da programação
 
-<!--
-**sarahetec/sarahetec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Atualmente estudando
+🌐 HTML e CSS (Interfaces Web)
+⚡ Lógica de Programação e Algoritmos
+🖥️ Fundamentos da Informática
+🎨 Design / Arte Digital para Web
+📱 Introdução ao desenvolvimento web e mobile
+🗂️ Git e GitHub
 
-Here are some ideas to get you started:
+👩‍💻 Sobre mim
+• Estudante do M-Tec em Informática para Internet na ETEC
+• 1º ano do curso
+• Ampliando meus conhecimentos em tecnologia e programação
+• Uso este GitHub para compartilhar projetos, exercícios e aprendizados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Objetivo: evoluir cada vez mais como desenvolvedora
+
+✨ "Pequenos códigos hoje, grandes projetos amanhã."
